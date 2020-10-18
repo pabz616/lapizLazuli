@@ -1,2 +1,2 @@
-# lapizLazuli
+# lapiz
 CodeceptJS w. Playwright
